@@ -10,7 +10,7 @@ Commands are listed [here](https://github.com/SexualRhinoceros/MusicBot/wiki/Com
 
 The main configuration file is `config/options.ini`, but is not included.  Simply make a copy of `example_options.ini` and rename to `options.ini`.  See `example_options.ini` for more information on how to configure it.
 
-[CLICK HERE](https://github.com/ukxphantom/Music-Bot/wiki/configuration for more details
+[CLICK HERE](https://github.com/Just-Some-Bots/MusicBot/wiki) for more details
 
 ### Great, now how do I use it?
 Download the bot, set the dependencies up, then run `runbot.bat`! (or `run.sh` on mac/linux)  Read the tutorial if you don't know what to do.
